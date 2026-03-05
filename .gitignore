@@ -1,2 +1,26 @@
-#Blocking feature 
+# Claude
 claude.md
+.claude/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+
+# Xcode build output
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Xcode temp files
+*.hmap
+*.ipa
+*.xcscmblueprint
